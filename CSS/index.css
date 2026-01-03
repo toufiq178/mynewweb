@@ -86,9 +86,24 @@ img{
     border: 6px transparent;
     border-radius:16px; 
 }
-a{
+.a{
     text-align: center;
     display: block;
+
+
+}
+.gologin{
+    text-align: center;
+    display: inline-block;
+    background-color: red;
+    padding: 8px 8px;
+    justify-content: center;
+    border: 5px solid transparent;
+    border-radius: 9px;
+    letter-spacing: 1px;
+    color: white;
+
+
 }
 button{
     margin: auto;
