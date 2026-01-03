@@ -1,0 +1,27 @@
+body{
+
+    margin: auto;
+    display: block;
+    width: 300px;
+    border: 9px transparent;
+    border-radius: 9px ;
+    box-shadow: 1px 1px 12px black;
+}
+
+div{
+
+    margin: auto;
+    display: block;
+    width: 160px;
+    padding: 6px;
+}
+
+button{
+    margin: auto;
+    display: block;
+    width: 80;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(56, 65, 62);
+    border: 5 transparent;
+    border-radius: 6px ;
+}
