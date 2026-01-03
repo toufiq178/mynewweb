@@ -50,3 +50,47 @@ h3{
     border: 6px transparent;
     border-radius: 12px;
 }
+
+ul{
+    text-align: justify;
+    text-overflow: clip;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif  ;    
+    background-color: rgb(146, 127, 255);
+    padding: 12px;
+    display: block;
+    width: 400px;
+    border: 6px transparent;
+    border-radius: 12px;
+}
+li{
+   text-align: justify;
+    text-overflow: clip;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif  ;    
+    background-color: rgb(232, 255, 127);
+    display: block;
+    padding: 4px;
+    border: 6px transparent;
+    border-radius: 12px;  
+}
+
+img{
+
+    margin: auto;
+    display: block;
+    width: 300px;
+    padding: 4px;
+    border: 6px transparent;
+    border-radius:16px; 
+}
+a{
+    text-align: center;
+    display: block;
+}
+button{
+    margin: auto;
+    display: block;
+    border: 2px solid rgb(99, 76, 0);
+    border-radius: 9px ;
+    color: rgb(105, 90, 6);
+
+}
